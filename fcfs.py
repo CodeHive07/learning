@@ -35,3 +35,4 @@ avg_tat = sum(tat.values()) / n
 
 print(f"\nAverage Waiting Time = {avg_wt:.2f}")
 print(f"Average Turnaround Time = {avg_tat:.2f}")
+print("Done")
