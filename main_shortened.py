@@ -24,4 +24,4 @@ else :
         if ((computer - you) == 2 or (computer - you) == -1) :
             print("Computer Wins!")
         elif ((computer - you) == -2 or (computer - you) == 1) :
-            print("You Win !")
+            print("You Win !, Something ig?")
