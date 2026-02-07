@@ -33,6 +33,7 @@ else :
             print("Computer win !")
         elif (computer == 0 and you == -1) :#1
             print("You win !, GOod Job")
+            print("Fuck")
 
     '''
         We can simplify win logic by figuring out pattern : 
